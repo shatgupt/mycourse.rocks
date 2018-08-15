@@ -4,6 +4,8 @@
 
 ## NOTE: This is an alpha version. Expect lot of bugs.
 ## Only tested for some CSE courses
+## Deployed instance for API:
+https://static-mediator-213120.appspot.com/class/83239
 
 ## Development
 Python 3.6+ required. Clone this repo and follow these steps:
