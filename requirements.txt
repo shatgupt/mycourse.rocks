@@ -1,0 +1,2 @@
+cssselect==1.0.3
+toapi==2.1.2
