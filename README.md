@@ -1,3 +1,5 @@
+# This has been deprecated in favor of https://github.com/shatgupt/getmycourses
+
 # My Course Rocks
 
 > Track your favourite course at ASU and get notified if a seat becomes available in it.
